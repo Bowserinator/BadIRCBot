@@ -3,3 +3,5 @@
 -Public password
 -Unsafe echo
 -eval based calc
+-Hardcoded list
+-Hard coded commandchars and servers and stuff
