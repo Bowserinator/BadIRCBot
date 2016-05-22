@@ -1,0 +1,5 @@
+-Nick based perms
+-If/elif commands
+-Public password
+-Unsafe echo
+-eval based calc
