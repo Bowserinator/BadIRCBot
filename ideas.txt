@@ -5,3 +5,4 @@
 -eval based calc
 -Hardcoded list
 -Hard coded commandchars and servers and stuff
+-Ugly colors and formatting errors
