@@ -7,3 +7,6 @@
 -Hard coded commandchars and servers and stuff
 -Ugly colors and formatting errors
 -No SENDMSG command, just raw irc.send
+-Lots of global varaibles
+-Join each channel individiually
+-Use .find a lot
